@@ -1,4 +1,5 @@
-# nahw-summarized
+# Nahw - Learning via analysis of usage examples
+
 My notes on nahw (نحو) organized for ease of learning and teaching
 
 
