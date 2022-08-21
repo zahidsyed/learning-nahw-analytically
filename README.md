@@ -1,5 +1,5 @@
 # Learning nahw analytically
-My notes on nahw (نحو) organized for ease of learning and teaching
+My notes on nahw (نحو) organized for ease of learning, reviewing and teaching
 
 
 This work is licensed under a
