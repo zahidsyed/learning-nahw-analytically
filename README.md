@@ -5,10 +5,11 @@ This is an excerpt from the **Introduction** page. Please visit the **pdf** or *
 
 Say you are reviewing نحو rules or are teaching it, or perhaps even learning it, be you a native Arabic speaker or non-native. Below are two versions describing the same نحو concepts. Read each for the same amount of time.
 
-
+### Version 1
 ![image](https://user-images.githubusercontent.com/5341129/186527333-5c471a3a-ee8b-44bf-8d68-5928d3d881c2.png)
 
-For this version, focus simply on the heading and the **Observe** column.
+### Version 2
+For this next version, focus simply on the heading and the **Observe** column.
 
 ![image](https://user-images.githubusercontent.com/5341129/186527473-ee75f37e-2a52-4a21-bf0a-6bc9f17f1e89.png)
 
