@@ -68,6 +68,7 @@ Remember the elevator pitch I mentioned above? The issues from a learner and rev
 2. **Issue 2** The 'know how to read Arabic to learn نحو' problem which is a somewhat chicken-and-egg problem.
 3. **Issue 3** A 'wall of text' approach devoid of appropriate sectioning and layout that is time-consuming to parse rules, to compare and contrast related rules, and to visualize their hierarchy.
 4. **Issue 4** It is also time consuming to review using these books due to the wall of text. My notes from them were just another wall of text with slightly more structure.
+
 From a teaching perspective:
 1. **Issue 5** Teaching Arabic becomes lecture-centric (i.e. talking head format) which goes back to Issue 1 (listening and understanding), instead of a more engaging system (student-centric analyzing and inferring).
 
