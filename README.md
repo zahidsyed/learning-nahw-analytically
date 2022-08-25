@@ -76,7 +76,7 @@ Remember the elevator pitch I mentioned above? The issues from a learner and rev
 From a teaching perspective:
 1. **Issue 5** Teaching Arabic becomes lecture-centric (i.e. talking head format) which goes back to Issue 1 (listening and understanding), instead of a more engaging system (student-centric analyzing and inferring).
 
-So I worked my way backwards from what issues I saw fit to address. As I created the notes, I realized that they were worth sharing with others, and also extremely good for teaching, so I added many features such that it's accessible to the largest possible group. بِفَضْلِ اللهِ I managed to create and polish the system and also apply it to a third of نيل المنى in August 2022.
+So I worked my way backwards from what issues I saw fit to address. As I created the notes, I realized that they were worth sharing with others, and also extremely good for teaching, so I added many features such that it's accessible to the largest possible group. بِفَضْلِ اللهِ as of Aug 2022, I have prepared distributable-quality notes for a third of نيل المنى.
 
 # How do these notes resolve the above issues?
 Please see the Introduction PDF or the OneNote file in the appropriate folder.
