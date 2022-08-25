@@ -5,11 +5,14 @@ This is an excerpt from the **Introduction** page. Please visit the **pdf** or *
 
 Say you are reviewing نحو rules or are teaching it, or perhaps even learning it, be you a native Arabic speaker or non-native. Below are two versions describing the same نحو concepts. Read each for the same amount of time.
 
-### Version 1
+### In this corner...
+A standard reference book focused on precise scholarly definitions with all related information and minutiae for you to read, understand and digest.
+
 ![image](https://user-images.githubusercontent.com/5341129/186527333-5c471a3a-ee8b-44bf-8d68-5928d3d881c2.png)
 
-### Version 2
-For this next version, focus simply on the heading and the **Observe** column.
+### And in the other corner...
+The core concepts laid out with just enough hints for you to analyze and infer the rules yourself. 
+For this version, read in this order: **Heading** → **Observe** column, comprehend it → Grey text.
 
 ![image](https://user-images.githubusercontent.com/5341129/186527473-ee75f37e-2a52-4a21-bf0a-6bc9f17f1e89.png)
 
@@ -36,6 +39,7 @@ These are based on my experiences as a non-native early-intermediate level stude
 | - Learning precise definitions                              | Use reference books for this                                                           |
 | + Expose gaps in your knowledge so you can fill them in     | because you cannot deduce the rule from examples till you know the underlying concepts |
 | + Make it easier to understand a classical sharh afterwards |                                                                                        |
+| - Replace classical references                              | Different purposes, different audiences. Use the right tool for the right job. |
 | +/- Proficiency in recognizing their usage in other texts   | when practiced with other texts and examples                                           |
 | - Writing or speaking proficiently                          | as it requires more than just knowing نحو rules                                        |
 
@@ -73,6 +77,9 @@ From a teaching perspective:
 1. **Issue 5** Teaching Arabic becomes lecture-centric (i.e. talking head format) which goes back to Issue 1 (listening and understanding), instead of a more engaging system (student-centric analyzing and inferring).
 
 So I worked my way backwards from what issues I saw fit to address. As I created the notes, I realized that they were worth sharing with others, and also extremely good for teaching, so I added many features such that it's accessible to the largest possible group. بِفَضْلِ اللهِ I managed to create and polish the system and also apply it to a third of نيل المنى in August 2022.
+
+# How do these notes resolve the above issues?
+Please see the Introduction PDF or the OneNote file in the appropriate folder.
 
 # License
 This work is licensed under a
