@@ -73,7 +73,7 @@ These are the issues I found from a learner and reviewer's perspective and the m
 
 ![image](https://user-images.githubusercontent.com/5341129/187830400-c7559e01-532a-45c1-83ae-6fe25fe4c514.png)
 
-So I worked my way backwards from what issues I saw fit to address. As I created the notes, I realized that they were worth sharing with others, and also extremely good for teaching, so I added many features such that it's accessible to the largest possible group. بِفَضْلِ اللهِ as of Aug 2022, I have prepared distributable-quality notes for a third of نيل المنى.
+As I created the notes, I realized that they were worth sharing with others, and also extremely good for teaching, so I added many features such that it's accessible to the largest possible group.  I began in Aug 2022, and بِفَضْلِ اللهِ prepared 19 of the 52 chapters that month.
 
 End of excerpt.
 
