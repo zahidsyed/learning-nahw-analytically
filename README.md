@@ -17,7 +17,8 @@ A standard reference book focused on precise scholarly definitions with all rela
 The core concepts laid out with just enough hints for you to analyze and infer the rules yourself. 
 For this version, read in this order: **Heading** → **Observe** column. Ignore the Grey text until you figure out the rule yourself.
 
-![image](https://user-images.githubusercontent.com/5341129/187830236-5d57474d-770b-4ed7-a787-4314eaf8bd94.png)
+![image](https://user-images.githubusercontent.com/5341129/187839263-ff5d80ee-c058-4a1e-a87d-33f48626f450.png)
+
 
 Regardless of your Arabic proficiency, which version:
 - Is easier to review with?
@@ -73,7 +74,7 @@ These are the issues I found from a learner and reviewer's perspective and the m
 
 ![image](https://user-images.githubusercontent.com/5341129/187830400-c7559e01-532a-45c1-83ae-6fe25fe4c514.png)
 
-So I worked my way backwards from what issues I saw fit to address. As I created the notes, I realized that they were worth sharing with others, and also extremely good for teaching, so I added many features such that it's accessible to the largest possible group. بِفَضْلِ اللهِ as of Aug 2022, I have prepared distributable-quality notes for a third of نيل المنى.
+As I created the notes, I realized that they were worth sharing with others, and also extremely good for teaching, so I added many features such that it's accessible to the largest possible group.  I began in Aug 2022, and بِفَضْلِ اللهِ prepared 19 of the 52 chapters that month.
 
 End of excerpt.
 
