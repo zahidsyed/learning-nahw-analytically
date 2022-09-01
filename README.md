@@ -1,5 +1,8 @@
 # Learning nahw analytically
-This is an excerpt from the **Introduction** page. Please visit the **pdf** or **onenote** folder for the complete document.
+
+To download the notes, see the latest release in the right-side bar on the [project homepage.](https://github.com/zahidsyed/learning-nahw-analytically)
+
+This is an excerpt from the **Introduction**.
 
 ## The elevator pitch
 
@@ -8,13 +11,13 @@ Say you are reviewing نحو rules or are teaching it, or perhaps even learning 
 ### In this corner...
 A standard reference book focused on precise scholarly definitions with all related information and minutiae for you to read, understand and digest.
 
-![image](https://user-images.githubusercontent.com/5341129/186527333-5c471a3a-ee8b-44bf-8d68-5928d3d881c2.png)
+![image](https://user-images.githubusercontent.com/5341129/187830180-e1dccad4-915d-4028-82da-b928d5398c3d.png)
 
 ### And in the other corner...
 The core concepts laid out with just enough hints for you to analyze and infer the rules yourself. 
-For this version, read in this order: **Heading** → **Observe** column, comprehend it → Grey text.
+For this version, read in this order: **Heading** → **Observe** column. Ignore the Grey text until you figure out the rule yourself.
 
-![image](https://user-images.githubusercontent.com/5341129/186527473-ee75f37e-2a52-4a21-bf0a-6bc9f17f1e89.png)
+![image](https://user-images.githubusercontent.com/5341129/187830236-5d57474d-770b-4ed7-a787-4314eaf8bd94.png)
 
 Regardless of your Arabic proficiency, which version:
 - Is easier to review with?
@@ -55,8 +58,7 @@ These are based on my experiences as a non-native early-intermediate level stude
 2. You know إعراب and its various types: فتحة، ضمة، كسرة، ، الألف، الياء، الواو etc.
 3. You know basic roles in a sentence: فعل، فاعل، مفعول، مبتدأ، خبر
 4. You are able to parse basic Arabic sentences into their constituent parts. مبتدأ، خبر، فاعل، مفعول معمول، حال etc. These are only mentioned where a rule cannot be deduced otherwise.
-5. You can read with only the necessary diacritical marks present. Sometimes, full tashkeel is not present in non-critical text. This will be fixed, إن شاء الله
-6. You have a solid beginner vocabulary. Difficult sentences are translated.
+5. You have a solid beginner vocabulary. Difficult sentences are translated.
 
 ## For teachers (untested, expected)
 1. The fewer the above pre-requisites that students have met, the greater the teacher's focus and time spent on background content than on grammar-related deductions and explanations. 
@@ -65,21 +67,15 @@ These are based on my experiences as a non-native early-intermediate level stude
 # Why make these notes?
 It came about while reviewing my Arabic grammar notes in the summer of 2022. Doing so rapidly was proving near impossible. I had already tried multiple ways of note-taking for نحو over the past decade, but none were to my satisfaction.
 
-Furthermore, while studying Baghdadi's نيل المنى and Ibn Hisham's شرح قطر الندى, I realized they are wonderful reference books, but inefficient for internalizing the نحو rules and, more importantly, when reviewing them. 
+Remember the elevator pitch I mentioned above? While studying Baghdadi's نيل المنى and Ibn Hisham's شرح قطر الندى, I realized they are wonderful reference books, but inefficient for internalizing the نحو rules and, more importantly, when reviewing them. 
 
-Remember the elevator pitch I mentioned above? The issues from a learner and reviewer's perspective are:
-1. **Issue 1** A 'definitions and rules primary, and examples secondary' approach. This spoon-feeds rules and lifts much of the burden of rule analysis and comprehension from the reader. This is great for reference, but inefficient when learning.
-2. **Issue 2** The 'know how to read Arabic to learn نحو' problem which is a somewhat chicken-and-egg problem.
-3. **Issue 3** A 'wall of text' approach devoid of appropriate sectioning and layout that is time-consuming to parse rules, to compare and contrast related rules, and to visualize their hierarchy.
-4. **Issue 4** It is also time consuming to review using these books due to the wall of text. My notes from them were just another wall of text with slightly more structure.
+These are the issues I found from a learner and reviewer's perspective and the mechanism I have used to address them in my notes:
 
-From a teaching perspective:
-1. **Issue 5** Teaching Arabic becomes lecture-centric (i.e. talking head format) which goes back to Issue 1 (listening and understanding), instead of a more engaging system (student-centric analyzing and inferring).
+![image](https://user-images.githubusercontent.com/5341129/187830400-c7559e01-532a-45c1-83ae-6fe25fe4c514.png)
 
 So I worked my way backwards from what issues I saw fit to address. As I created the notes, I realized that they were worth sharing with others, and also extremely good for teaching, so I added many features such that it's accessible to the largest possible group. بِفَضْلِ اللهِ as of Aug 2022, I have prepared distributable-quality notes for a third of نيل المنى.
 
-# How do these notes resolve the above issues?
-Please see the Introduction PDF or the OneNote file in the appropriate folder.
+End of excerpt.
 
 # License
 This work is licensed under a
