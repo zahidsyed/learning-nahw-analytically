@@ -17,7 +17,8 @@ A standard reference book focused on precise scholarly definitions with all rela
 The core concepts laid out with just enough hints for you to analyze and infer the rules yourself. 
 For this version, read in this order: **Heading** → **Observe** column. Ignore the Grey text until you figure out the rule yourself.
 
-![image](https://user-images.githubusercontent.com/5341129/187830236-5d57474d-770b-4ed7-a787-4314eaf8bd94.png)
+![image](https://user-images.githubusercontent.com/5341129/187839263-ff5d80ee-c058-4a1e-a87d-33f48626f450.png)
+
 
 Regardless of your Arabic proficiency, which version:
 - Is easier to review with?
