@@ -1,6 +1,8 @@
+<meta name="google-site-verification" content="dpuGyA-6Qsn4SFRWxPRMfSDZKjnOsDIXhriocZ3U-8w" />
+
 # Learning nahw analytically
 
-To download the notes, see the latest release in the right-side bar on the [project homepage.](https://github.com/zahidsyed/learning-nahw-analytically)
+To download the PDF notes, see the latest release on the [project homepage.](https://github.com/zahidsyed/learning-nahw-analytically). It will be in the right-side bar (on desktop) or at the bottom (on mobile).
 
 This is an excerpt from the **Introduction**.
 
