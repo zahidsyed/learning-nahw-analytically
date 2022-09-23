@@ -2,7 +2,7 @@
 
 To download the PDF notes, see the latest release on the [project homepage.](https://github.com/zahidsyed/learning-nahw-analytically). It will be in the right-side bar (on desktop) or at the bottom (on mobile).
 
-This is an excerpt from the **Wiki**. The full document can be found in the release package.
+This is an excerpt from the **Wiki**. The full document can be found in the latest release package.
 
 ## The elevator pitch
 
