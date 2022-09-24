@@ -70,7 +70,7 @@ These are based on my experiences as a non-native early-intermediate level stude
 
 # What are the prerequisites to using these notes?
 ## For reviewers
-Read the sections on how to 'read' the tables and examples, and you are set.
+In the [wiki](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest), read the sections on how to 'read' the tables and examples, and you are set.
 
 ## For self learners
 **Note** The primary purpose of these notes is for reviewing what you have already learnt or to be taught by someone. However, if you meet the below prerequisites, then you can likely self learn the nahw rules:
