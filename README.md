@@ -3,7 +3,7 @@
 
 The below text is an excerpt from the **Wiki**. To download it and the notes together, see the [latest release package.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) 
 
-For individual files see, **\pdf** and **\onenote**
+For individual files see **\pdf** and **\onenote** folders
 
 ## The elevator pitch
 
