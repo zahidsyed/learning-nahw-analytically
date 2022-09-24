@@ -26,9 +26,9 @@ For this version, read in this order: **Headings** → **Observe** column. Ignor
 
 If you are a reviewer, the core concepts have been laid out with just enough hints for you to analyze and recall the rules yourself. If you are a teacher/student, it is on the student to take time to infer as much of the rules as possible without glancing at the grey text.
 
-If you need further convincing, we will be reading the next example in the opposite order. 
-
 ### Use case 2 - The notes as an entry point for reference books
+Let's read the next concept in the opposite order - notes first, reference book second.
+
 #### Read the notes first to grasp the core concepts…
 ![image](https://user-images.githubusercontent.com/5341129/191886114-bba2d2c2-b695-4db2-aee0-ea505db5fe41.png)
 
