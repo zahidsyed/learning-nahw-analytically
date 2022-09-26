@@ -85,7 +85,7 @@ In the [wiki](https://github.com/zahidsyed/learning-nahw-analytically/releases/l
 2. Either way, students will be compelled to fill gaps in understanding as they learn new material.
 
 # Why make these notes?
-It came about while reviewing my Arabic grammar notes in the summer of 2022. Doing so rapidly was proving near impossible. I had already tried multiple ways of note-taking for نحو over the past decade, but none were to my satisfaction.
+To really understand hadith and think like a فقيه requires mastering nahw which I tried to dodge for as long as possible. However, I realized my weakness would be apparent as I went further in my studies. So I decided to face the problem and began reviewing my Arabic grammar notes in the summer of 2022. However, doing so rapidly was proving near impossible. I had already tried multiple note-taking methods for نحو over the past decade, but none were to my satisfaction.
 
 Remember the elevator pitch I mentioned above? While studying Baghdadi's نيل المنى and Ibn Hisham's شرح قطر الندى, I realized they are wonderful reference books, but inefficient for internalizing the نحو rules and, more importantly, when reviewing them. 
 
