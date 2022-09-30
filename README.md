@@ -1,79 +1,65 @@
 # Learning nahw analytically
 
 
-The below text is an excerpt from the **Wiki**. To download it and the notes together, see the [latest release package.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) 
+The below text is an excerpt from the **Wiki**. To download it and the notes together, see the [latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) 
 
 For individual files see the [\pdf](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) and [\onenote](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote) folders
 
 ## The elevator pitch
 
-The purpose of these notes is to provide a more intuitive method for reviewing, teaching and learning Arabic syntax, i.e. نحو. To appreciate its advantages over using only grammar reference books, observe the examples below for the following use cases:
+The purpose of these notes is to provide a more intuitive method for reviewing, teaching and learning Arabic syntax, i.e. نحو. These notes can serve three types of students in different ways:
 
-| Use case #                                                           | Comments                                                                             |
-|----------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| 1. Using the notes alone as opposed to only reading a reference book | for reviewing or teaching. Self-learning is also possible as mentioned later below.  |
-| 2. Using the notes as an entry point for reading a reference book.   | Parsing a reference book is easier afterwards for reasons which are mentioned later. |
+| Who                                                                                                        | Purpose                                                                                                                                                                                                                                                                                                                                 |
+|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. The reviewer who is studying grammar books in Arabic and is familiar with the نحو rules.                                                   | This student can use these notes for rapidly reviewing نحو rules after studying and understanding from the Arabic grammar books. They save much time in this regard. <br> <br> However, I advise this student NOT to use these notes for learning نحو, but only for reviewing them. See below* for one of my teachers' comment on why this is so. |
+| 2. The middling student with basic reading skills but has not yet studied the rules.                                                             | This student can use these notes if they have basic Arabic grammar skills (mentioned later). Please see the warning above. I advise you to learn to read Arabic grammar books even if you have understood the rules from here.                                                                                                          |
+| 3. The beginner being taught by a teacher. This student is currently unable to read Arabic grammar books.  | This student can use these notes to grasp the basics of نحو under a teacher, and as a stepping stone for ultimately studying Arabic grammar books.<br> <br> These notes provide (I hope) a more fun and intuitive way to teach نحو for beginners than other methods.                                                                             |
 
-### Use case 1 - Using the notes in isolation
-Below are two versions describing the same نحو concepts. Read each for the same amount of time and compare their ease of use.
+_* The objective (for the serious student) isn't just to learn grammar, but to learn how to read grammar books because when you read the Islamic sciences as a whole, you will find grammar discussions in tafsir, hadith, fiqh (often interpreting Qur'an and hadith), and commentaries of books. Those discussions are often at a higher level than the (basic grammar) books, so students will likely need to pick up more advanced nahw books like commentaries of Alfiyya and the like, either to review the grammar or look up more advanced discussions. So if students struggle to read classical grammar texts, they will be stuck. - Ust Abdul Hakim Vazquez_
+
+### A demonstrative example
+To appreciate the benefit of these notes, below are two versions describing the same نحو concepts. Read each for the same amount of time and try comprehending it - viewing them from the perspective of either of the three types of students mentioned above.
 
 #### First, a نحو concept from a reference book.
 ![image](https://user-images.githubusercontent.com/5341129/191884515-d3bfacfd-9a82-4331-a162-d721cb472297.png)
 
 #### Second, the same concept from the notes
-For this version, read in this order: **Headings** → **Observe** column. Ignore the Grey text until you figure out the rule yourself. 
+For this version, read in this order: **Headings** → **Observe** column. Ignore the Grey text until you figure out the rule yourself. <br> <br> 
 ![image](https://user-images.githubusercontent.com/5341129/191884627-1f600a79-4b93-480f-b93d-09d8d3030e10.png)
 
-If you are a reviewer, the core concepts have been laid out with just enough hints for you to analyze and recall the rules yourself. If you are a teacher/student, it is on the student to take time to infer as much of the rules as possible without glancing at the grey text.
+### Discussion
+For the reviewer, the core concepts have been laid out with just enough hints to analyze and recall the rules. I have found this to be faster than when reviewing from a book that uses a wall of text method.
 
-### Use case 2 - The notes as an entry point for reference books
-Let's read the next concept in the opposite order - notes first, reference book second.
+For the middling student and the beginner, the notes provide a mechanism to apply their prior knowledge of Arabic grammar to infer new rules. Thus, the mental effort such a student exerts during this exercise is on very different tasks compared to grammar books. The typical thought process when comprehending using these two methods varies as shown below:
 
-#### Read the notes first to grasp the core concepts…
-![image](https://user-images.githubusercontent.com/5341129/191886114-bba2d2c2-b695-4db2-aee0-ea505db5fe41.png)
+![image](https://user-images.githubusercontent.com/5341129/193292533-4ca2c69a-3d00-4793-935c-8374c0a59b0b.png)
 
-#### and then read the reference text for further understanding
-![image](https://user-images.githubusercontent.com/5341129/191884745-1e7ca003-a21b-4c53-b93a-be4606fdcc04.png)
 
-### Conclusion
-The entirety of the text in the notes could easily be turned to Arabic for further immersion. Regardless, with or without that, I propose that the notes:
-1. Are easier to review with.
-2. Lead to a deeper understanding in the same amount of time.
-3. Convey the concept behind the rules quicker.
-4. Convey the rule hierarchy.
-5. Allow easier comparison of rules.
-6. Are easier to teach with.
+The key difference is that, in these notes, the burden of rule analysis is placed on the student instead of spoon-feeding the definition and the explanation as it happens in typical grammar books. This results in a deeper understanding of the rule if both approaches are given the same amount of time.
+
+There is much that the above explanation cannot convey that hopefully the prior example does. 
 
 ## What these notes can (and cannot) help you achieve
+### For all students
+![image](https://user-images.githubusercontent.com/5341129/193293011-0cc49cb8-dfe5-4174-ad60-2ae9cce2c262.png)
 
-These are based on my experiences as a non-native early-intermediate level student of Arabic and as a teacher, not on empirical proof.
+### For the reviewer
+![image](https://user-images.githubusercontent.com/5341129/193294128-a8b3726a-4f10-42e2-9b49-7e42e7a70976.png)
 
-### Students
-| Expected outcomes                                           | Commentary                                                                             |
-|-------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| + Recalling concepts and examples far quicker               | than when using a reference book. This is the primary purpose of these notes.          |
-| + A deeper understanding of نحو rules                       | compared to a reference book, given identical time investment                          |
-| - Cover all minutiae of نحو                                 | I am not that qualified. Out of scope. The objective is to convey the core concepts.   |
-| +/- Providing numerous examples for each case                 | I have collated examples from ibn Hisham's شرح قطر الندى and from نيل المنى. Some topics have more than others.                                                                            |
-| + Learning the rules conceptually                           |  since you are expected to analyze the sentences and infer the rules.                |
-| - Learning precise definitions                              | Use reference books for this                                                           |
-| + Expose gaps in your knowledge so you can fill them in     | because you cannot deduce the rule from examples till you know the underlying concepts |
-| + Make it easier to understand a classical sharh afterwards |                                                                                        |
-| - Replace classical references                              | Different purposes, different audiences. Use the right tool for the right job. |
-| +/- Proficiency in recognizing their usage in other texts   | when practiced with other texts and examples                                           |
-| - Writing or speaking proficiently                          | as it requires more than just knowing نحو rules                                        |
 
-### Teachers (untested, expected outcomes)
-- Teach Arabic grammar in a more engaging manner
-- Less time spent structuring content ⇒ more time on delivering content
-- Student-centric ⇒ Less lecturing ⇒ Less draining ⇒ More time for research *wink*
+### For the beginner
+![image](https://user-images.githubusercontent.com/5341129/193293260-399bcff0-647c-4712-ab4c-9c8bd9f1d1b4.png)
+
+### For the teacher
+I haven't tested these but based on my experience as a teacher, I expect these outcomes:
+![image](https://user-images.githubusercontent.com/5341129/193293399-462fc1f8-8a95-4514-9e66-b7777c979a5e.png)
 
 # What are the prerequisites to using these notes?
 ## For reviewers
-In the [wiki](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest), read the sections on how to 'read' the tables and examples, and you are set.
+All that is required is that you understand how to 'read' the tables. Please go through the sections later below on this and you are set.
 
-## For self learners
-**Note** The primary purpose of these notes is for reviewing what you have already learnt or to be taught by someone. However, if you meet the below prerequisites, then you can likely self learn the nahw rules:
+## For middling students
+Along with the above:
 1. You know your sarf tables or can at least recognize sing, dual and plurals in most forms.
 2. You know إعراب and its various types: فتحة، ضمة، كسرة، ، الألف، الياء، الواو etc.
 3. You know basic roles in a sentence: فعل، فاعل، مفعول، مبتدأ، خبر
@@ -81,21 +67,9 @@ In the [wiki](https://github.com/zahidsyed/learning-nahw-analytically/releases/l
 5. You have a solid beginner vocabulary. Difficult sentences are translated.
 
 ## For teachers (untested, expected)
-1. The fewer the above pre-requisites that students have met, the greater the teacher's focus and time spent on background content than on grammar-related deductions and explanations. 
-2. Either way, students will be compelled to fill gaps in understanding as they learn new material.
+The fewer the above pre-requisites that beginner students have met, the greater the teacher's focus and time spent on background content than on grammar-related deductions and explanations. Either way, students will be compelled to fill gaps in understanding as they learn new material.
 
-# Why make these notes?
-To really understand hadith and think like a فقيه requires mastering nahw which I tried to dodge for as long as possible. However, I realized my weakness would be apparent as I went further in my studies. So I decided to face the problem and began reviewing my Arabic grammar notes in the summer of 2022. However, doing so rapidly was proving near impossible. I had already tried multiple note-taking methods for نحو over the past decade, but none were to my satisfaction.
-
-Remember the elevator pitch I mentioned above? While studying Baghdadi's نيل المنى and Ibn Hisham's شرح قطر الندى, I realized they are wonderful reference books, but inefficient for internalizing the نحو rules and, more importantly, when reviewing them. 
-
-These are the issues I found from a learner and reviewer's perspective and the mechanism I have used to address them in my notes:
-
-![image](https://user-images.githubusercontent.com/5341129/187830400-c7559e01-532a-45c1-83ae-6fe25fe4c514.png)
-
-As I created the notes, I realized that they were worth sharing with others, and also extremely good for teaching, so I added many features such that it's accessible to the largest possible group.  I began in Aug 2022, and بِفَضْلِ اللهِ prepared 19 of the 52 chapters that month.
-
-End of excerpt. The rest can be found in the Wiki in the release.
+End of excerpt. The rest can be found in the Wiki in the [latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest)
 
 # License
 This work is licensed under a
