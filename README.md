@@ -56,7 +56,7 @@ I haven't tested these but based on my experience as a teacher, I expect these o
 
 # What are the prerequisites to using these notes?
 ## For reviewers
-All that is required is that you understand how to 'read' the tables. Please go through the sections later below on this and you are set.
+All that is required is that you understand how to 'read' the tables. Please go through the related sections in the Wiki and you are set.
 
 ## For middling students
 Along with the above:
