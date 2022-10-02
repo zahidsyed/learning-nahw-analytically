@@ -6,7 +6,7 @@
 
 ## The elevator pitch
 
-The purpose of these notes is to provide a more intuitive method for reviewing, teaching and learning Arabic syntax, i.e. نحو. These notes can serve three types of students in different ways:
+The purpose of these notes is to provide a more intuitive method for reviewing, teaching and learning Arabic syntax, i.e. نحو. I designed these notes with three types of students in mind:
 
 | Who                                                                                                        | Purpose                                                                                                                                                                                                                                                                                                                                 |
 |------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
