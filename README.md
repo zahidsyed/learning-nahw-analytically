@@ -1,8 +1,9 @@
+This is a work in progress (~55% complete).
+
 # Learning nahw analytically
 
 - The below text is an excerpt from the **Wiki**. To download it and the notes together, see the [latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) 
 - For individual files see the [\pdf](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) and [\onenote](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote) folders
-- This is a work in progress (~55% complete).
 
 ## The elevator pitch
 
