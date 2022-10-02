@@ -32,7 +32,7 @@ For the reviewer, the core concepts have been laid out with just enough hints to
 
 For the middling student and the beginner, the notes provide a mechanism to apply their prior knowledge of Arabic grammar to infer new rules. Thus, the mental effort such a student exerts during this exercise is on very different tasks compared to grammar books. The typical thought process when comprehending using these two methods varies as shown below:
 
-![image](https://user-images.githubusercontent.com/5341129/193292533-4ca2c69a-3d00-4793-935c-8374c0a59b0b.png)
+![image](https://user-images.githubusercontent.com/5341129/193469106-3e3e3720-39ee-4a39-b5b2-82086f275cf4.png)
 
 
 The key difference is that, in these notes, the burden of rule analysis is placed on the student instead of spoon-feeding the definition and the explanation as it happens in typical grammar books. This results in a deeper understanding of the rule if both approaches are given the same amount of time.
