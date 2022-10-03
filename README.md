@@ -1,11 +1,3 @@
-This is a work in progress
-
-| Version       | Planned features              |
-|---------------|-------------------------------|
-| v0.00 - v0.54 | Add all 54 chapters of نيل المنى |
-| > v0.54       | 1. Exercise template <br> 2. Full Arabic text version <br> 3. Port to Word for printability |
-
-
 # Learning nahw analytically
 
 - The below text is an excerpt from the **Wiki**. To download it and the notes together, see the [latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) 
@@ -76,6 +68,15 @@ The more you know of the following, the easier the time you will have:
 The fewer the above pre-requisites that beginner students have met, the greater the teacher's focus and time spent on background content than on grammar-related deductions and explanations. Either way, students will be compelled to fill gaps in understanding as they learn new material.
 
 End of excerpt. The rest can be found in the Wiki in the [latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest)
+
+# This is a work in progress
+
+| Version       | Planned features              |
+|---------------|-------------------------------|
+| v0.00 - v0.54 | Add all 54 chapters of نيل المنى |
+| > v0.54       | 1. Exercise template <br> 2. Full Arabic text version <br> 3. Port to Word for printability |
+
+See [latest release](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) for current version.
 
 # License
 This work is licensed under a
