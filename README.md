@@ -1,4 +1,10 @@
-This is a work in progress (~55% complete).
+This is a work in progress
+
+| Version       | Planned features              |
+|---------------|-------------------------------|
+| v0.00 - v0.54 | Add all 54 chapters of نيل المنى |
+| > v0.54       | 1. Exercise template <br> 2. Full Arabic text version <br> 3. Port to Word for printability |
+
 
 # Learning nahw analytically
 
