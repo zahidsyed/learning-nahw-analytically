@@ -59,7 +59,7 @@ I haven't tested these but based on my experience as a teacher, I expect these o
 All that is required is that you understand how to 'read' the tables. Please go through the related sections in the Wiki and you are set.
 
 ## For middling students
-Along with the above:
+The more you know of the following, the easier the time you will have:
 1. You know your sarf tables or can at least recognize sing, dual and plurals in most forms.
 2. You know إعراب and its various types: فتحة، ضمة، كسرة، ، الألف، الياء، الواو etc.
 3. You know basic roles in a sentence: فعل، فاعل، مفعول، مبتدأ، خبر
