@@ -1,11 +1,13 @@
 # Learning nahw analytically
 
-- The below text is an excerpt from the **Wiki**. To download it and the notes together, see the [latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) 
-- For individual files see the [\pdf](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) and [\onenote](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote) folders
-
 ## The elevator pitch
 
 The purpose of these notes is two-fold: 1) to provide a more intuitive, rapid method for reviewing Arabic syntax rules i.e. نحو, if you have already studied them and 2) a more engaging, student-centric method for teaching it. They can also be used for self-learning but this is not the objective I had in mind when designing these notes.
+
+- Want to get started quickly? Refer to the [Quickstart here.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) and download the [PDFs](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) of the chapters you want to review.
+- The notes come in [\pdf](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) and [\onenote](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote) format.
+- Below is a somewhat detailed description. It is an excerpt from the **Wiki**. To download it and the notes together, see the [latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) 
+
 
 ### A demonstrative example
 To appreciate the benefit of these notes, below are two versions describing the same نحو concepts. Read each for the same amount of time and try comprehending it - viewing them from the perspective of a reviewer, and a student learning under a teacher.
