@@ -13,7 +13,8 @@ The purpose of these notes is two-fold:
 - **Need an example or a quick pitch about these notes?**
   - Skip to the next section
 - **Looking for updates to notes you have already downloaded?**
-  - See [the latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) It will have comments on which chapters have been updated since the last release.
+  	1. See [the latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) It will have comments on which chapters have been updated since the last release.
+  	2. Then download either the zip file there (it contains all PDFs + OneNote) or just what you want from the [\pdf](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) or [\onenote](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote) folder.
 - **How to teach with these notes? (or other questions)**
   - [Read the Wiki.](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) It contains the Quickstart information and more.
 - **Want the fully editable version of these notes?**
