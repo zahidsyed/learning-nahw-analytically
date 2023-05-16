@@ -8,7 +8,7 @@ The purpose of these notes is two-fold:
 ## Navigation help
 - **New user? Want to get started quickly?**
 	1. Go to [the PDFs folder.](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf)
-	2. Read the Quickstart there
+	2. Read the [Quickstart there.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Quickstart.pdf)
 	3. Download the PDFs of the chapters you want.
 - **Need an example or a quick pitch about these notes?**
   - Skip to the next section
@@ -16,7 +16,7 @@ The purpose of these notes is two-fold:
   	1. See [the latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) It will have comments on which chapters have been updated since the last release.
   	2. Then download either the zip file there (it contains all PDFs + OneNote) or just what you want from the [\pdf](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) or [\onenote](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote) folder.
 - **How to teach with these notes? (or other questions)**
-  - [Read the Wiki.](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) It contains the Quickstart information and more.
+  - [Refer to the full Wiki.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Wiki.pdf) It has information from the Quickstart and other FAQs.
 - **Want the fully editable version of these notes?**
   - [Get the OneNote version](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote) and instructions to use it.
 
