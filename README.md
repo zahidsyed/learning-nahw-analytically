@@ -68,7 +68,7 @@ There is much that the above explanation cannot convey that hopefully the prior 
 
 # What are the prerequisites to using these notes?
 ## For the reviewer
-All that is required is that you understand how to 'read' the tables. Please go through the related sections in [the Wiki](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) and you are set.
+All that is required is that you understand how to 'read' the tables. Please go through the related sections in [the Quickstart](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) and you are set.
 
 ## For the middling student
 The more you know of the following, the easier the time you will have:
