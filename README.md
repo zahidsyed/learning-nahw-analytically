@@ -79,7 +79,7 @@ The more you know of the following, the easier the time you will have:
 5. You have a solid beginner vocabulary. Difficult sentences are translated.
 
 
-End of excerpt. The rest can be found in the Wiki in the [latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest)
+End of excerpt. The rest can be found in the [Wiki.](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf)
 
 # This is a work in progress
 
