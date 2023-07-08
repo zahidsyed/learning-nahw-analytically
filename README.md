@@ -7,9 +7,8 @@ The purpose of these notes is two-fold:
 --------
 ## Navigation help
 - **New user? Want to get started quickly?**
-	1. Go to [the PDFs folder.](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf)
-	2. Read the [Quickstart there.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Quickstart.pdf)
-	3. Download the PDFs of the chapters you want.
+	1. Read the [Quickstart in the PDFs folder.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Quickstart.pdf)
+	2. Download the PDFs of the chapters you want.
 - **Need an example or a quick pitch about these notes?**
   - Skip to the next section
 - **Looking for updates to notes you have already downloaded?**
