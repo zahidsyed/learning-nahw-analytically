@@ -5,7 +5,7 @@ The purpose of these notes is two-fold:
 2. If you are a teacher: a more engaging, student-centric, evidence-based method for teaching نحو. This part is in an early development stage.
 
 Also keep in mind:
-1. The primary audience is not the self-learner even though they can still be used for this purpose. These are review notes - they are no detailed explanations, even for difficult concepts.
+1. The primary audience is not the self-learner even though they can still use it. But keep in mind that these are review notes - there are no detailed explanations, even for difficult concepts.
 2. Furthermore, a serious student of knowledge should not use these notes while abandoning learning to comprehend classical grammar books.
 3. The current version targets English-speaking learners. A full Arabic version is planned for later, إن شاء الله
 
