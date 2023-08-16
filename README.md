@@ -35,16 +35,15 @@ To appreciate the benefit of these notes, below are two versions describing the 
 #### First, a نحو concept from a reference book.
 ![image](https://github.com/zahidsyed/learning-nahw-analytically/assets/5341129/5657f1b8-1577-4c8f-b044-81bbf24e11bb)
 
-The key difference is that, in these notes, the burden of rule analysis is placed on the reader instead of spoon-feeding the definition and the explanation as is typical in many books. Given the same amount of time, the proposed method results in a deeper understanding of the rule. 
-
-Such methods have been proven through research to be more effective for learning and retention. For details, see: _A taxonomy for learning, teaching, and assessing_, Anderson et al. ISBN: 9780321084057
-
 #### Second, the same concept from the notes
 For this version
 1. Read in this order: **Headings** → **Observe** column → **Compare** column.
 2. Ignore the Grey text until you figure out the rule yourself. <br> <br> 
 ![image](https://github.com/zahidsyed/learning-nahw-analytically/assets/5341129/cec89b22-4a07-41a9-a09e-c0110d8caa06)
 
+The key difference is that, in these notes, the burden of rule analysis is placed on the reader instead of spoon-feeding the definition and the explanation as is typical in many books. Given the same amount of time, the proposed method results in a deeper understanding of the rule. 
+
+Such methods have been proven through research to be more effective for learning and retention. For details, see: _A taxonomy for learning, teaching, and assessing_, Anderson et al. ISBN: 9780321084057
 
 ### Who are these notes for
 Based on the design objective, these notes cater to three types of students:
