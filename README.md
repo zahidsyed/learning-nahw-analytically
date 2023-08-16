@@ -14,10 +14,10 @@ Also keep in mind:
 1. **New user? Want to get started quickly?**
 	1. Read the [Quickstart in the PDFs folder.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Quickstart.pdf)
 	2. Download the PDFs of the chapters you want.
-2. **Want the fully editable version of these notes?**
-	1. [Get the OneNote version](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote) and instructions to use it.
-3. **Need an example or a quick pitch about these notes?**
+2. **New user? Need a demo or a quick pitch about these notes?**
 	1. Skip to the next section
+3. **Want the fully editable version of these notes?**
+	1. [Get the OneNote version](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote) and instructions to use it.
 4. **Looking for updates to notes you have already downloaded?**
   	1. See [the latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) It will have comments on which chapters have been updated since the last release.
   	2. Then download either the zip file there (it contains all PDFs + OneNote) or just what you want from the [\pdf](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) or [\onenote](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote) folder.
