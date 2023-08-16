@@ -35,6 +35,9 @@ To appreciate the benefit of these notes, below are two versions describing the 
 #### First, a نحو concept from a reference book.
 ![image](https://github.com/zahidsyed/learning-nahw-analytically/assets/5341129/5657f1b8-1577-4c8f-b044-81bbf24e11bb)
 
+The key difference is that, in these notes, the burden of rule analysis is placed on the reader instead of spoon-feeding the definition and the explanation as is typical in many books. Given the same amount of time, the proposed method results in a deeper understanding of the rule. 
+
+Such methods have been proven through research to be more effective for learning and retention. For details, see: _A taxonomy for learning, teaching, and assessing_, Anderson et al. ISBN: 9780321084057
 
 #### Second, the same concept from the notes
 For this version
@@ -51,10 +54,6 @@ Based on the design objective, these notes cater to three types of students:
 | 1. The **reviewer** who has already studied grammar books written in Arabic and is familiar with the نحو rules.  <br> <br> Primary audience.                                            | Target audience. This student can use these notes for rapidly reviewing نحو rules after studying and understanding from the grammar books written in Arabic. The core concepts have been laid out with just enough hints to analyze and rapidly the rules. <br> <br> **A word of advice** The serious student of knowledge should NOT use these notes while abandoning grammar books written in Arabic. See below* for one of my teachers' comment on why doing so is detrimental in the long-term. |
 | 2. The **student with a teacher**  <br> <br> Primary audience. Early development stage.  | This student is expected to use her prior knowledge of نحو to infer by herself as much of the rule as possible. Thus, the student expends mental effort on very different, and more pedagogically important, tasks in these notes as compared to grammar reference books.  <br> <br> These notes can function as a stepping stone for ultimately studying Arabic grammar books.  <br> <br>The teaching method is explained later below. I hope it makes for a more fun, student-centric way to teach نحو than other methods. |
 | 3. The **self-learner** with basic grammar skills but has not yet studied the نحو rules.*   <br> <br> Secondary audience. | This student can use these notes to learn most of نحو without reading an Arabic grammar book IF they have basic Arabic grammar skills (mentioned later). However, some difficult concepts may require external help. <br> <br> Just as with the reviewer, I advise this student not to abandon learning to read grammar books written in Arabic.*                                                                             |
-
-The key difference is that, in these notes, the burden of rule analysis is placed on the reader instead of spoon-feeding the definition and the explanation as is typical in many books. Given the same amount of time, the proposed method results in a deeper understanding of the rule. 
-
-Such methods have been proven through research to be more effective for learning and retention. For details, see: _A taxonomy for learning, teaching, and assessing_, Anderson et al. ISBN: 9780321084057
 
 #### * Why learn to comprehend classical grammar books?
 _The (long-term) objective (for the serious student) isn't just to learn grammar, but to learn how to read grammar books because when you read the Islamic sciences as a whole, you will find grammar discussions in tafsir, hadith, fiqh (often interpreting Qur'an and hadith), and commentaries of books. Those discussions are often at a higher level than the (basic grammar) books, so students will likely need to pick up more advanced nahw books like commentaries of Alfiyya and the like, either to review the grammar or look up more advanced discussions. So if students struggle to read classical grammar texts, they will be stuck._ - Ust Abdul Hakim Vazquez
