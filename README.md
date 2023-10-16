@@ -1,12 +1,14 @@
+Bismillah.
+
 # Learning nahw analytically
 
-The purpose of these notes is two-fold: 
-1. If you have already studied نحو (Arabic syntax): a more intuitive, rapid method for reviewing it and 
-2. If you are a teacher: a more engaging, student-centric, evidence-based method for teaching نحو. This part is in an early development stage.
+I have developed this system for two types of target users: 
+1. The reviewer: If you have already studied نحو (Arabic syntax), this is a more intuitive, rapid system for reviewing it and 
+2. The teacher-and-learner pair: This system offer a more engaging, student-centric, evidence-based system for teaching نحو. This part is still in development.
 
 Also keep in mind:
-1. The primary audience is not the self-learner even though they can still use it. But keep in mind that these are review notes - there are no detailed explanations, even for difficult concepts.
-2. Furthermore, a serious student of knowledge should not use these notes while abandoning learning to comprehend classical grammar books.
+1. The target user is not the self-learner even though they can still use it. These is a reviewing/teaching system - there are no detailed explanations, even for difficult concepts.
+2. Furthermore, a serious student of knowledge should not use this while abandoning learning to comprehend classical grammar books.
 3. The current version targets English-speaking learners. A full Arabic version is planned for later, إن شاء الله
 
 --------
@@ -14,14 +16,14 @@ Also keep in mind:
 1. **New user? Want to get started quickly?**
 	1. Read the [Quickstart in the PDFs folder.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Quickstart.pdf)
 	2. Download the PDFs of the chapters you want.
-2. **New user? Need a demo or a quick pitch about these notes?**
+2. **New user? Need a demo or a quick pitch about this system?**
 	1. Skip to the next section
-3. **Want the fully editable version of these notes?**
+3. **Want the fully editable version?**
 	1. [Get the OneNote version](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote) and instructions to use it.
-4. **Looking for updates to notes you have already downloaded?**
+4. **Looking for updates to files you have already downloaded?**
   	1. See [the latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) It will have comments on which chapters have been updated since the last release.
   	2. Then download either the zip file there (it contains all PDFs + OneNote) or just what you want from the [\pdf](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) or [\onenote](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote) folder.
-5. **How to teach with these notes? (or other questions)**
+5. **How to teach with this system? (or other questions)**
 	1. [Refer to the full Wiki.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Wiki.pdf)
 6. **How can I contribute?**
 	1. [Please email me.](3n4lw9o10@mozmail.com)
@@ -30,7 +32,7 @@ Also keep in mind:
 ## The elevator pitch
 
 ### A demonstrative example
-To appreciate the benefit of these notes, below are two versions describing the same نحو concepts. Read each for the same amount of time and try comprehending it - viewing them from the perspective of a reviewer.
+To appreciate the benefit of this system, below are two versions describing the same نحو concepts. Read each for the same amount of time and try comprehending it - viewing them from the perspective of a reviewer.
 
 #### First, a نحو concept from a reference book.
 ![image](https://github.com/zahidsyed/learning-nahw-analytically/assets/5341129/5657f1b8-1577-4c8f-b044-81bbf24e11bb)
@@ -41,23 +43,23 @@ For this version
 2. Ignore the Grey text until you figure out the rule yourself. <br> <br> 
 ![image](https://github.com/zahidsyed/learning-nahw-analytically/assets/5341129/cec89b22-4a07-41a9-a09e-c0110d8caa06)
 
-The key difference is that, in these notes, the burden of rule analysis is placed on the reader instead of spoon-feeding the definition and the explanation as is typical in many books. Given the same amount of time, the proposed method results in a deeper understanding of the rule. 
+The key difference is that, in this system, the burden of rule analysis is placed on the reader instead of spoon-feeding the definition and the explanation as is typical in many books. Given the same amount of time, the proposed method results in a deeper understanding of the rule. 
 
 Such methods have been proven through research to be more effective for learning and retention. For details, see: _A taxonomy for learning, teaching, and assessing_, Anderson et al. ISBN: 9780321084057
 
-### Who are these notes for
-Based on the design objective, these notes cater to three types of students:
+### Who is this system for
+Based on the design objective, this system cater to three types of students:
 
 | Type                                                                                                        | Purpose                                                                                                                                                                                                                                                                                                                                 |
 |------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. The **reviewer** who has already studied grammar books written in Arabic and is familiar with the نحو rules.  <br> <br> Primary audience.                                            | Target audience. This student can use these notes for rapidly reviewing نحو rules after studying and understanding from the grammar books written in Arabic. The core concepts have been laid out with just enough hints to analyze and rapidly the rules. <br> <br> **A word of advice** The serious student of knowledge should NOT use these notes while abandoning grammar books written in Arabic. See below* for one of my teachers' comment on why doing so is detrimental in the long-term. |
-| 2. The **student with a teacher**  <br> <br> Primary audience. Early development stage.  | This student is expected to use her prior knowledge of نحو to infer by herself as much of the rule as possible. Thus, the student expends mental effort on very different, and more pedagogically important, tasks in these notes as compared to grammar reference books.  <br> <br> These notes can function as a stepping stone for ultimately studying Arabic grammar books.  <br> <br>The teaching method is explained later below. I hope it makes for a more fun, student-centric way to teach نحو than other methods. |
-| 3. The **self-learner** with basic grammar skills but has not yet studied the نحو rules.*   <br> <br> Secondary audience. | This student can use these notes to learn most of نحو without reading an Arabic grammar book IF they have basic Arabic grammar skills (mentioned later). However, some difficult concepts may require external help. <br> <br> Just as with the reviewer, I advise this student not to abandon learning to read grammar books written in Arabic.*                                                                             |
+| 1. The **reviewer** who has already studied grammar books written in Arabic and is familiar with the نحو rules.  <br> <br> Primary audience.                                            | Target audience. This student can use this system for rapidly reviewing نحو rules after studying and understanding from the grammar books written in Arabic. The core concepts have been laid out with just enough hints to analyze and rapidly the rules. <br> <br> **A word of advice** The serious student of knowledge should NOT use this system while abandoning grammar books written in Arabic. See below* for one of my teachers' comment on why doing so is detrimental in the long-term. |
+| 2. The **student with a teacher**  <br> <br> Primary audience. Early development stage.  | This student is expected to use her prior knowledge of نحو to infer by herself as much of the rule as possible. Thus, the student expends mental effort on very different, and more pedagogically important, tasks in this system as compared to grammar reference books.  <br> <br> This system can function as a stepping stone for ultimately studying Arabic grammar books.  <br> <br>The teaching method is explained later below. I hope it makes for a more fun, student-centric way to teach نحو than other methods. |
+| 3. The **self-learner** with basic grammar skills but has not yet studied the نحو rules.*   <br> <br> Secondary audience. | This student can use this system to learn most of نحو without reading an Arabic grammar book IF they have basic Arabic grammar skills (mentioned later). However, some difficult concepts may require external help. <br> <br> Just as with the reviewer, I advise this student not to abandon learning to read grammar books written in Arabic.*                                                                             |
 
 #### * Why learn to comprehend classical grammar books?
 _The (long-term) objective (for the serious student) isn't just to learn grammar, but to learn how to read grammar books because when you read the Islamic sciences as a whole, you will find grammar discussions in tafsir, hadith, fiqh (often interpreting Qur'an and hadith), and commentaries of books. Those discussions are often at a higher level than the (basic grammar) books, so students will likely need to pick up more advanced nahw books like commentaries of Alfiyya and the like, either to review the grammar or look up more advanced discussions. So if students struggle to read classical grammar texts, they will be stuck._ - Ust Abdul Hakim Vazquez
 
-## What these notes can (and cannot) help you achieve
+## What this system can (and cannot) help you achieve
 ### For both reviewer and middling students
 ![image](https://user-images.githubusercontent.com/5341129/193982797-53042264-bdb1-452f-85c6-29c6309ac1cb.png)
 
@@ -68,7 +70,7 @@ _The (long-term) objective (for the serious student) isn't just to learn grammar
 ![image](https://user-images.githubusercontent.com/5341129/193982855-d4495925-f7a3-4b25-a234-0b6ae337e979.png)
 
 
-# What are the prerequisites to using these notes?
+# What are the prerequisites to using this system?
 ## For the reviewer
 All that is required is that you understand how to 'read' the tables. Please go through the related sections in [the Quickstart](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) and you are set.
 
