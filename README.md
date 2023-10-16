@@ -45,7 +45,7 @@ For this version
 
 The key difference is that, in this system, the burden of rule analysis is placed on the reader and forces the reader to engage with the text. This in contrast to typical grammar books that spoon-feed the definition and the explanation. Given the same amount of time, the proposed method results in a deeper understanding of the rule. 
 
-Such methods have been proven through research to be more effective for learning and retention. For details, see: _A taxonomy for learning, teaching, and assessing_, Anderson et al. ISBN: 9780321084057
+This system is an attempt towards a Learner-Centric Teaching method for nahw. LCT has been proven through research to be more effective for learning and retention. For details, see: _A taxonomy for learning, teaching, and assessing_, Anderson et al. ISBN: 9780321084057
 
 ### Who is this system for
 Based on the design objective, this system cater to three types of students:
