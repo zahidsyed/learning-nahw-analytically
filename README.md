@@ -60,7 +60,7 @@ Based on the design objective, this system cater to three types of students:
 _The (long-term) objective (for the serious student) isn't just to learn grammar, but to learn how to read grammar books because when you read the Islamic sciences as a whole, you will find grammar discussions in tafsir, hadith, fiqh (often interpreting Qur'an and hadith), and commentaries of books. Those discussions are often at a higher level than the (basic grammar) books, so students will likely need to pick up more advanced nahw books like commentaries of Alfiyya and the like, either to review the grammar or look up more advanced discussions. So if students struggle to read classical grammar texts, they will be stuck._ - Ust Abdul Hakim Vazquez
 
 ## What this system can (and cannot) help you achieve
-### For all types of users
+### For the reviewer and the learner
 ![image](https://user-images.githubusercontent.com/5341129/193982797-53042264-bdb1-452f-85c6-29c6309ac1cb.png)
 
 ### For the reviewer
