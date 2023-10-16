@@ -4,7 +4,7 @@ Bismillah.
 
 I have developed this system primarily for two types of target users: 
 1. The reviewer: If you have already studied نحو (Arabic syntax), this is a more intuitive, rapid system for reviewing it and 
-2. The teacher-and-learner pair: This system offer a more engaging, student-centric, evidence-based system for teaching نحو. This part is still in development.
+2. The teacher-learner(s) setup: This system offer a more engaging, student-centric, evidence-based system for teaching نحو. This part is still in development.
 
 Also keep in mind:
 1. The target user is not the self-learner even though they can still use it for the easier concepts. However, this is, at its core, a reviewing/teaching system - there are no detailed explanations.
