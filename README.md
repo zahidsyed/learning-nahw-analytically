@@ -14,7 +14,7 @@ I have developed this system targeting three use cases, two primary and one seco
 
 3. Self-learning: Even though self-learners can use it, this system is, at its core, a reviewing and teaching system - there are no detailed explanations for difficult concepts.
 
-**Note:** A student of knowledge should not use this system while abandoning learning to comprehend classical grammar books. Also, the current version targets only an English-speaking audience for whom Arabic is a 2nd language.
+**Note:** The current version targets only an English-speaking audience for whom Arabic is a 2nd language.
 
 --------
 ## Navigation help
