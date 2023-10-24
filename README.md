@@ -2,35 +2,38 @@ Bismillah.
 
 # Learning nahw analytically
 
+_It is easy to create a dry, boring, but accurate resource for a complex topic. The challenge is to create something that is effective yet fun to learn from and to teach with._
+
 I have developed this system targeting three use cases, two primary and one secondary.
-**Primary use cases
+
+**Primary use cases**
 1. Reviewing: If you have already studied نحو (Arabic syntax), this is a more intuitive, rapid system for reviewing it.
 2. Learning under a teacher: This system offer a more engaging, student-centric, evidence-based system for teaching نحو before serious students step into deeper books. This part is still under development.
-**Secondary use case
+
+**Secondary use case**
+
 3. Self-learning: Even though self-learners can use it, this system is, at its core, a reviewing and teaching system - there are no detailed explanations for difficult concepts.
 
-**Note:
-1. A serious student of knowledge should not use this system while abandoning learning to comprehend classical grammar books.
-2. The current version targets English-speaking learners. A full Arabic version is planned for later, إن شاء الله.
+**Note:** A serious student of knowledge should not use this system while abandoning learning to comprehend classical grammar books. Also, the current version targets an English-speaking audience. A full Arabic version is planned for later, إن شاء الله.
 
 --------
 ## Navigation help
 1. **New user? Want to get started quickly?**
-	1. Read the [Quickstart in the PDFs folder.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Quickstart.pdf)
-	2. Download the PDFs of the chapters you want.
-2. **New user? Need a demo of the system?**
-	1. Read [The elevator pitch.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20The%20elevator%20pitch.pdf)
-3. **A teacher?
-	1. Read the above elevator pitch. 
-	2. Then read the [Wiki for the teacher](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Wiki%20-%20for%20the%20teacher.pdf)
+	1. First, read the [Quickstart.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Quickstart.pdf)
+	2. Then download the PDFs of the chapters you want.
+2. **New user? Need convincing?**
+	1. Check out [the elevator pitch.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20The%20elevator%20pitch.pdf)
+3. **A teacher?**
+	1. First, read [the elevator pitch.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20The%20elevator%20pitch.pdf)
+	2. Then, head over to the [Wiki for the teacher](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Wiki%20-%20for%20the%20teacher.pdf)
 4. **Want the fully editable version?**
-	1. [Get the OneNote version](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote) and instructions to use it.
+	1. Get [the OneNote version.](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote)
 5. **Looking for updates to chapters you have already downloaded?**
   	1. See [the latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) It will have comments on which chapters have been updated since the last release.
-  	2. Then download either the zip file there (it contains all PDFs + OneNote) or just what you want from the [\pdf](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf) or [\onenote](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote) folder.
+  	2. Then download either the zip file there (PDFs + OneNote). Alternatively, download a [specific PDF](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf), or [the Onenote file.](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote)
 
 
-
+--------
 # License
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
