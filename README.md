@@ -2,7 +2,7 @@ Bismillah.
 
 # Learning nahw analytically
 
-_It is easy to create a bone dry, boring, but superbly accurate resource for a complex topic. But the real challenge is to create something that is effective, yet fun to learn from and to teach with. That was my goal when I set out to design this system._
+_It is easy to create a bone dry, boring, but superbly accurate resource for a complex topic. But the real challenge is to create something that is effective, yet fun to learn from and to teach with._
 
 I have developed this system targeting three use cases, two primary and one secondary.
 
