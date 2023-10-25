@@ -12,7 +12,7 @@ I have developed this system targeting three use cases, two primary and one seco
 
 **Secondary use case**
 
-3. Self-learning: Even though self-learners can use it, this system is, at its core, a reviewing and teaching system - there are no detailed explanations for difficult concepts.
+3. Self-learning: While this is possible, this system is, at its core, developed for reviewing and teaching - there are no detailed explanations for difficult concepts.
 
 **Note:** The current version targets only an English-speaking audience for whom Arabic is a 2nd language.
 
