@@ -22,10 +22,9 @@ I have developed this system targeting three use cases, two primary and one seco
 	1. First, read the [Quickstart.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Quickstart.pdf)
 	2. Then download the PDFs of the chapters you want.
 2. **New user? Need convincing?**
-	1. Check out [the elevator pitch.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20The%20elevator%20pitch.pdf)
+	1. Check out [the elevator pitch.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20The%20elevator%20pitch.pdf) Then follow the directions at its end.
 3. **A teacher?**
-	1. First, read [the elevator pitch.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20The%20elevator%20pitch.pdf)
-	2. Then, head over to the [Wiki for the teacher](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Wiki%20-%20for%20the%20teacher.pdf)
+	1. Same as above - Check out [the elevator pitch.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20The%20elevator%20pitch.pdf) Then follow the directions at its end.
 4. **Want the fully editable version?**
 	1. Get [the OneNote version.](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote)
 5. **Looking for updates to chapters you have already downloaded?**
