@@ -14,7 +14,7 @@ I have developed this system targeting three use cases, two primary and one seco
 
 3. Self-learning: While this is possible, this system is, at its core, developed for reviewing and teaching - there are no detailed explanations for difficult concepts.
 
-**Note:** The current version targets only an English-speaking audience for whom Arabic is a 2nd language.
+**Note:** The current version targets only an English-speaking audience for whom Arabic is a 2nd language. This work is still under development. See the Table of Contents for completed chapters.
 
 --------
 ## Navigation help
