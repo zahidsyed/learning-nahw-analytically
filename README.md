@@ -8,7 +8,7 @@ I have developed this system targeting three use cases, two primary and one seco
 
 **Primary use cases**
 1. Reviewing: If you have already studied نحو (Arabic syntax), this is a more intuitive, rapid system for reviewing it.
-2. Learning under a teacher: This system offer a more engaging, student-centric, evidence-based system for teaching نحو before serious students step into deeper books. This part is still under development.
+2. Learning under a teacher: It provides the core resources needed to teach نحو using active learning strategies, the goal being to facilitate an engaging, student-centric, collaborative learning environment grounded in evidence based teaching techniques. This part is still under development.
 
 **Secondary use case**
 
