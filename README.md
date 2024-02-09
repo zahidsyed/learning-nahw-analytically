@@ -14,7 +14,7 @@ I have developed this system targeting three use cases, two primary and one seco
 
 3. Self-learning: While this is possible, this system is, at its core, developed for reviewing and teaching - there are no detailed explanations for difficult concepts to help self-learners.
 
-**Note:** The current version targets only an English-speaking audience for whom Arabic is a 2nd language. This work is still under development. See the [Table of Contents](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Table%20of%20contents.pdf) for completed chapters.
+**Note:** The current version targets only an English-speaking audience for whom Arabic is a 2nd language. This work is still under development. See the [Table of Contents](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Table%20of%20contents%2C%20chapters%20completed%20till%20date.pdf) for completed chapters.
 
 --------
 ## Navigation help
